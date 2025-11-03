@@ -33,5 +33,5 @@ Users can explore trending and now-playing movies, save favorites, and share mov
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/Aaryan-Ag/Movie-app.git
-   cd Movie-app
+   git clone https://github.com/Aaryan-Ag/FlutterMovieApp.git
+   cd FlutterMovieApp
